@@ -1,0 +1,58 @@
+about:
+  description: The CSV magician
+  license: Unlicense
+  homepage: 
+  head: 38cf1c8
+  archived: false
+  latestVersion: 0.60.0
+  collectedAt: 2026-09-02T04:19:04Z
+timeline:
+  created: 2018-07-10
+  lastCommit: 2026-09-01
+  lastRelease: 2026-07-10
+popularity:
+  star: 4488
+  watcher: 21
+  fork: 90
+  release: 39
+  contributor: 68
+  pullRequest: 10
+  issue: 1079
+language:
+  Rust: 2217098
+  HTML: 1245
+  Shell: 1232
+totalLine: 2219575
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 0
+    openPR: 2
+    closedIssue: 2
+    openIssue: 4
+    commit: 2
+  last90d:
+    since: 2026-06-04
+    release: 4
+    mergedPR: 0
+    openPR: 3
+    closedIssue: 31
+    openIssue: 30
+    commit: 108
+  last180d:
+    since: 2026-03-06
+    release: 7
+    mergedPR: 5
+    openPR: 3
+    closedIssue: 150
+    openIssue: 67
+    commit: 577
+  last360d:
+    since: 2025-09-07
+    release: 17
+    mergedPR: 14
+    openPR: 3
+    closedIssue: 265
+    openIssue: 89
+    commit: 873
