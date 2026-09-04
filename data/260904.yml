@@ -7,7 +7,7 @@ about:
   head: 0149e93
   archived: false
   latestVersion: 0.60.0
-  collectedAt: 2026-09-04T19:24:52Z
+  collectedAt: 2026-09-04T21:06:40Z
 timeline:
   created: 2018-07-10
   lastCommit: 2026-09-04
@@ -82,5 +82,58 @@ total:
   openIssue: 123
   commit: 3356
 ---
+path: /home/runner/.x-repo/github.com/medialab/xan
+collectedAt: 2026-09-04T21:06:43Z
+loc:
+  Rust:
+    code: 61312
+    comments: 1054
+    blanks: 9444
+    files: 177
+  Json:
+    code: 1774
+    comments: 0
+    blanks: 0
+    files: 5
+  Sh:
+    code: 340
+    comments: 44
+    blanks: 122
+    files: 6
+  Toml:
+    code: 154
+    comments: 2
+    blanks: 9
+    files: 3
+  Pest:
+    code: 138
+    comments: 12
+    blanks: 23
+    files: 1
+  Html:
+    code: 60
+    comments: 0
+    blanks: 0
+    files: 1
+  Css:
+    code: 48
+    comments: 0
+    blanks: 12
+    files: 2
+  Markdown:
+    code: 0
+    comments: 9391
+    blanks: 3305
+    files: 92
+  Text:
+    code: 0
+    comments: 34
+    blanks: 5
+    files: 4
+total:
+  code: 64385
+  comments: 10777
+  blanks: 13007
+  files: 291
 ---
 
