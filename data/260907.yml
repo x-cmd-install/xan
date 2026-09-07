@@ -5,7 +5,7 @@ about:
   head: 0149e93
   archived: false
   latestVersion: "0.60.0"
-  collectedAt: 2026-09-07T04:44:51Z
+  collectedAt: 2026-09-07T19:41:07Z
 timeline:
   created: 2018-07-10
   lastCommit: 2026-09-04
@@ -81,7 +81,7 @@ total:
   commit: 3356
 ---
 path: /home/runner/.x-repo/github.com/medialab/xan
-collectedAt: 2026-09-07T04:44:58Z
+collectedAt: 2026-09-07T19:41:25Z
 loc:
   Rust:
     code: 61312
@@ -137,7 +137,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:45:01+00:00
+  collectedAt: 2026-09-07T19:41:35+00:00
   platform:
     darwin/arm64:
       name:  xan-aarch64-apple-darwin.tar.gz
