@@ -7,7 +7,7 @@ about:
   latestVersion: "0.60.0"
   latestRelease: "0.60.0"
   latestPrerelease: "0.60.0-rc.1"
-  collectedAt: 2026-09-09T04:58:31Z
+  collectedAt: 2026-09-09T18:59:43Z
 timeline:
   created: 2018-07-10
   lastCommit: 2026-09-08
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-10
   lastPrerelease: 2026-06-26
 popularity:
-  star: 4495
+  star: 4498
   watcher: 21
   fork: 90
   release: 39
@@ -85,7 +85,7 @@ total:
   commit: 3358
 ---
 path: /home/runner/.x-repo/github.com/medialab/xan
-collectedAt: 2026-09-09T04:58:37Z
+collectedAt: 2026-09-09T18:59:52Z
 loc:
   Rust:
     code: 61275
