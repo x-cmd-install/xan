@@ -4,7 +4,7 @@
 
 The CSV magician
 
-![xan](https://repo.x-cmd.io/xan.svg)
+![xan](https://repo.x-cmd.io/xan.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,27 @@ x install xan
 - **最新版本**: `0.60.0` (2026-07-10)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 12 个
-- **发布时间**: 2026-07-10T09:56:56Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [xan-aarch64-apple-darwin.sha256](https://github.com/medialab/xan/releases/download/0.60.0/xan-aarch64-apple-darwin.sha256) | 98 B | `native/darwin/arm64` |
+| [xan-aarch64-apple-darwin.tar.gz](https://github.com/medialab/xan/releases/download/0.60.0/xan-aarch64-apple-darwin.tar.gz) | 5.7 MiB | `native/darwin/arm64` |
+| [xan-aarch64-unknown-linux-gnu.sha256](https://github.com/medialab/xan/releases/download/0.60.0/xan-aarch64-unknown-linux-gnu.sha256) | 103 B | `native/linux/arm64/glibc` |
+| [xan-aarch64-unknown-linux-gnu.tar.gz](https://github.com/medialab/xan/releases/download/0.60.0/xan-aarch64-unknown-linux-gnu.tar.gz) | 6.3 MiB | `native/linux/arm64/glibc` |
+| [xan-x86_64-apple-darwin.sha256](https://github.com/medialab/xan/releases/download/0.60.0/xan-x86_64-apple-darwin.sha256) | 97 B | `native/darwin/x64` |
+| [xan-x86_64-apple-darwin.tar.gz](https://github.com/medialab/xan/releases/download/0.60.0/xan-x86_64-apple-darwin.tar.gz) | 6.2 MiB | `native/darwin/x64` |
+| [xan-x86_64-pc-windows-msvc.sha256](https://github.com/medialab/xan/releases/download/0.60.0/xan-x86_64-pc-windows-msvc.sha256) | 97 B | `native/win/x64` |
+| [xan-x86_64-pc-windows-msvc.zip](https://github.com/medialab/xan/releases/download/0.60.0/xan-x86_64-pc-windows-msvc.zip) | 6.2 MiB | `native/win/x64` |
+| [xan-x86_64-unknown-linux-gnu.sha256](https://github.com/medialab/xan/releases/download/0.60.0/xan-x86_64-unknown-linux-gnu.sha256) | 102 B | `native/linux/x64/glibc` |
+| [xan-x86_64-unknown-linux-gnu.tar.gz](https://github.com/medialab/xan/releases/download/0.60.0/xan-x86_64-unknown-linux-gnu.tar.gz) | 6.7 MiB | `native/linux/x64/glibc` |
+| [xan-x86_64-unknown-linux-musl.sha256](https://github.com/medialab/xan/releases/download/0.60.0/xan-x86_64-unknown-linux-musl.sha256) | 103 B | `native/linux/x64/musl` |
+| [xan-x86_64-unknown-linux-musl.tar.gz](https://github.com/medialab/xan/releases/download/0.60.0/xan-x86_64-unknown-linux-musl.tar.gz) | 7.0 MiB | `native/linux/x64/musl` |
 
 ## 流行度
 
-- **Star**: 4,499 · **Fork**: 90 · **开放 issue**: 1,088 · **贡献者**: 69
+- **Star**: 4,500 · **Fork**: 90 · **开放 issue**: 1,088 · **贡献者**: 69
 
 ## 累计统计
 
@@ -61,4 +77,4 @@ xan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:55:58Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:31:33Z._
