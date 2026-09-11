@@ -2,95 +2,95 @@ about:
   description: "The CSV magician"
   license: Unlicense
   homepage: 
-  head: 9af06d0
+  head: b201867
   archived: false
-  latestVersion: "0.60.0"
-  latestRelease: "0.60.0"
+  latestVersion: "0.61.0"
+  latestRelease: "0.61.0"
   latestPrerelease: "0.60.0-rc.1"
-  collectedAt: 2026-09-11T04:57:04Z
+  collectedAt: 2026-09-11T20:05:37Z
 timeline:
   created: 2018-07-10
-  lastCommit: 2026-09-08
-  lastVersion: 2026-07-10
-  lastRelease: 2026-07-10
+  lastCommit: 2026-09-11
+  lastVersion: 2026-09-11
+  lastRelease: 2026-09-11
   lastPrerelease: 2026-06-26
 popularity:
-  star: 4503
+  star: 4504
   watcher: 21
   fork: 90
-  release: 39
+  release: 40
   contributor: 69
   pullRequest: 69
-  issue: 1089
+  issue: 1091
 language:
-  Rust: 2221984
+  Rust: 2222675
   HTML: 1245
   Shell: 1232
-totalBytes: 2224461
+totalBytes: 2225152
 recent:
   last30d:
     since: 2026-08-12
-    release: 0
+    release: 1
     mergedPR: 1
     openPR: 1
-    closedIssue: 4
+    closedIssue: 6
     openIssue: 11
-    commit: 8
+    commit: 10
   last60d:
     since: 2026-07-13
-    release: 0
+    release: 1
     mergedPR: 1
     openPR: 1
-    closedIssue: 7
+    closedIssue: 9
     openIssue: 16
-    commit: 13
+    commit: 15
   last90d:
     since: 2026-06-13
-    release: 4
+    release: 5
     mergedPR: 1
     openPR: 1
-    closedIssue: 25
+    closedIssue: 27
     openIssue: 25
-    commit: 74
+    commit: 76
   last180d:
     since: 2026-03-15
-    release: 7
+    release: 8
     mergedPR: 6
     openPR: 2
-    closedIssue: 155
+    closedIssue: 157
     openIssue: 70
-    commit: 583
+    commit: 585
   last360d:
     since: 2025-09-16
-    release: 17
+    release: 18
     mergedPR: 15
     openPR: 2
-    closedIssue: 270
+    closedIssue: 272
     openIssue: 90
-    commit: 874
+    commit: 876
   last720d:
     since: 2024-09-21
-    release: 39
+    release: 40
     mergedPR: 40
     openPR: 2
-    closedIssue: 700
+    closedIssue: 702
     openIssue: 121
-    commit: 1889
+    commit: 1891
 total:
-  release: 39
+  release: 40
   mergedPR: 60
   openPR: 2
-  closedIssue: 964
+  closedIssue: 966
   openIssue: 125
-  commit: 3358
+  commit: 3360
 ---
 path: /home/runner/.x-repo/github.com/medialab/xan
-collectedAt: 2026-09-11T04:57:08Z
+collectedAt: 2026-09-11T20:05:42Z
 loc:
   Rust:
-    code: 61275
+    code: 61292
     comments: 1054
-    blanks: 9435
+    blanks: 9437
     files: 177
   Json:
     code: 1774
@@ -124,7 +124,7 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 9394
+    comments: 9395
     blanks: 3305
     files: 92
   Text:
@@ -133,9 +133,9 @@ loc:
     blanks: 5
     files: 4
 total:
-  code: 64348
-  comments: 10780
-  blanks: 12998
+  code: 64365
+  comments: 10781
+  blanks: 13000
   files: 291
 ---
 

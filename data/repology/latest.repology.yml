@@ -1,23 +1,27 @@
-- repo: homebrew
+- repo: manjaro_testing
+  subrepo: extra
   srcname: xan
+  binname: xan
   visiblename: xan
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: CSV CLI magician written in Rust
-- repo: liguros_stable
-  srcname: app-text/xan
-  visiblename: app-text/xan
-  version: 0.52.0
-  origversion: null
+  version: 0.60.0
+  origversion: 0.60.0-1
   status: outdated
   summary: The CSV magician
-  maintainers:
-    - vowstar@gmail.com
   licenses:
-    - '|| ( MIT Unlicense ) Apache-2.0 BSD-2 BSD Boost-1.0 CC0-1.0 GPL-2+ ISC MIT MPL-2.0 Unicode-3.0 Unlicense ZLIB'
-  categories:
-    - app-text
+    - Unlicense
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: xan
+  binname: xan
+  visiblename: xan
+  version: 0.60.0
+  origversion: 0.60.0-1
+  status: outdated
+  summary: The CSV magician
+  licenses:
+    - Unlicense
+    - MIT
 - repo: arch
   subrepo: extra
   srcname: xan
@@ -25,7 +29,7 @@
   visiblename: xan
   version: 0.60.0
   origversion: 0.60.0-1
-  status: newest
+  status: outdated
   summary: The CSV magician
   licenses:
     - Unlicense
@@ -36,7 +40,7 @@
   visiblename: textproc/xan
   version: 0.60.0
   origversion: 0.60.0_2
-  status: newest
+  status: outdated
   summary: CSV magician
   maintainers:
     - tagattie@freebsd.org
@@ -60,7 +64,7 @@
   visiblename: app-text/xan
   version: 0.60.0
   origversion: null
-  status: newest
+  status: outdated
   summary: The CSV magician
   maintainers:
     - vowstar@gmail.com
@@ -73,8 +77,28 @@
   visiblename: xan
   version: 0.60.0
   origversion: null
-  status: newest
+  status: outdated
   summary: CSV CLI magician written in Rust
+- repo: homebrew
+  srcname: xan
+  visiblename: xan
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: CSV CLI magician written in Rust
+- repo: liguros_stable
+  srcname: app-text/xan
+  visiblename: app-text/xan
+  version: 0.52.0
+  origversion: null
+  status: outdated
+  summary: The CSV magician
+  maintainers:
+    - vowstar@gmail.com
+  licenses:
+    - '|| ( MIT Unlicense ) Apache-2.0 BSD-2 BSD Boost-1.0 CC0-1.0 GPL-2+ ISC MIT MPL-2.0 Unicode-3.0 Unlicense ZLIB'
+  categories:
+    - app-text
 - repo: liguros_stable
   srcname: app-text/xan
   visiblename: app-text/xan
@@ -162,31 +186,7 @@
   visiblename: xan
   version: 0.60.0
   origversion: 0.60.0-1
-  status: newest
-  summary: The CSV magician
-  licenses:
-    - Unlicense
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: xan
-  binname: xan
-  visiblename: xan
-  version: 0.60.0
-  origversion: 0.60.0-1
-  status: newest
-  summary: The CSV magician
-  licenses:
-    - Unlicense
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: xan
-  binname: xan
-  visiblename: xan
-  version: 0.60.0
-  origversion: 0.60.0-1
-  status: newest
+  status: outdated
   summary: The CSV magician
   licenses:
     - Unlicense
@@ -229,7 +229,7 @@
   visiblename: xan
   version: 0.60.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Command line tool to process CSV files directly from the shell
   maintainers:
     - raf@notashelf.dev
@@ -241,7 +241,7 @@
   visiblename: textproc/xan
   version: 0.60.0
   origversion: null
-  status: newest
+  status: outdated
   summary: command line tool for CSV processing
   maintainers:
     - pascal@stumpf.co
@@ -254,7 +254,7 @@
   visiblename: xan
   version: 0.60.0
   origversion: 0.60.0-1
-  status: newest
+  status: outdated
   summary: The CSV magician
   licenses:
     - Unlicense
@@ -289,7 +289,7 @@
   visiblename: textproc/xan
   version: 0.60.0
   origversion: null
-  status: newest
+  status: outdated
   summary: CSV handling tool
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -299,7 +299,7 @@
   subrepo: extras
   binname: xan
   visiblename: xan
-  version: 0.60.0
+  version: 0.61.0
   origversion: null
   status: newest
   licenses:
@@ -309,7 +309,7 @@
   visiblename: xan
   version: 0.60.0
   origversion: null
-  status: newest
+  status: outdated
   summary: The CSV processing CLI
   maintainers:
     - rene@exactco.de
