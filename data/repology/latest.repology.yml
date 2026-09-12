@@ -1,35 +1,24 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: xan
-  binname: xan
-  visiblename: xan
-  version: 0.60.0
-  origversion: 0.60.0-1
-  status: outdated
+- repo: gentoo_ovl_guru
+  srcname: app-text/xan
+  visiblename: app-text/xan
+  version: "9999"
+  origversion: null
+  status: rolling
   summary: The CSV magician
+  maintainers:
+    - vowstar@gmail.com
   licenses:
-    - Unlicense
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: xan
-  binname: xan
-  visiblename: xan
-  version: 0.60.0
-  origversion: 0.60.0-1
-  status: outdated
-  summary: The CSV magician
-  licenses:
-    - Unlicense
-    - MIT
+    - '|| ( MIT Unlicense ) Apache-2.0 BSD-2 BSD CC0-1.0 GPL-2+ ISC MIT MPL-2.0 Unicode-3.0 Unlicense ZLIB'
+  categories:
+    - app-text
 - repo: arch
   subrepo: extra
   srcname: xan
   binname: xan
   visiblename: xan
-  version: 0.60.0
-  origversion: 0.60.0-1
-  status: outdated
+  version: 0.61.0
+  origversion: 0.61.0-1
+  status: newest
   summary: The CSV magician
   licenses:
     - Unlicense
@@ -49,19 +38,6 @@
 - repo: gentoo_ovl_guru
   srcname: app-text/xan
   visiblename: app-text/xan
-  version: "9999"
-  origversion: null
-  status: rolling
-  summary: The CSV magician
-  maintainers:
-    - vowstar@gmail.com
-  licenses:
-    - '|| ( MIT Unlicense ) Apache-2.0 BSD-2 BSD CC0-1.0 GPL-2+ ISC MIT MPL-2.0 Unicode-3.0 Unlicense ZLIB'
-  categories:
-    - app-text
-- repo: gentoo_ovl_guru
-  srcname: app-text/xan
-  visiblename: app-text/xan
   version: 0.60.0
   origversion: null
   status: outdated
@@ -75,9 +51,9 @@
 - repo: homebrew
   srcname: xan
   visiblename: xan
-  version: 0.60.0
+  version: 0.61.0
   origversion: null
-  status: outdated
+  status: newest
   summary: CSV CLI magician written in Rust
 - repo: homebrew
   srcname: xan
@@ -180,6 +156,30 @@
   categories:
     - textproc
 - repo: manjaro_stable
+  subrepo: extra
+  srcname: xan
+  binname: xan
+  visiblename: xan
+  version: 0.60.0
+  origversion: 0.60.0-1
+  status: outdated
+  summary: The CSV magician
+  licenses:
+    - Unlicense
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: xan
+  binname: xan
+  visiblename: xan
+  version: 0.60.0
+  origversion: 0.60.0-1
+  status: outdated
+  summary: The CSV magician
+  licenses:
+    - Unlicense
+    - MIT
+- repo: manjaro_unstable
   subrepo: extra
   srcname: xan
   binname: xan
