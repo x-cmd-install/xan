@@ -37,7 +37,7 @@ Total: **63,806** lines of code across **192** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,505 · **Forks**: 90 · **Open issues**: 1,091 · **Contributors**: 69
+- **Stars**: 4,507 · **Forks**: 90 · **Open issues**: 1,091 · **Contributors**: 69
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **63,806** lines of code across **192** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 1 | 1 | 6 | 11 | 10 |
-| last60d | 2026-07-15 | 1 | 1 | 1 | 9 | 16 | 14 |
-| 90d | 2026-06-15 | 5 | 1 | 1 | 23 | 24 | 47 |
-| last180d | 2026-03-17 | 8 | 5 | 2 | 157 | 70 | 560 |
-| 360d | 2025-09-18 | 17 | 15 | 2 | 269 | 90 | 874 |
-| last720d | 2024-09-23 | 40 | 40 | 2 | 702 | 121 | 1891 |
+| 30d | 2026-08-15 | 1 | 1 | 1 | 6 | 11 | 10 |
+| last60d | 2026-07-16 | 1 | 1 | 1 | 9 | 16 | 14 |
+| 90d | 2026-06-16 | 5 | 1 | 1 | 22 | 23 | 47 |
+| last180d | 2026-03-18 | 8 | 5 | 2 | 154 | 70 | 560 |
+| 360d | 2025-09-19 | 17 | 15 | 2 | 268 | 90 | 874 |
+| last720d | 2024-09-24 | 40 | 40 | 2 | 702 | 121 | 1883 |
 
 ## Release assets
 
@@ -71,16 +71,6 @@ Total: **63,806** lines of code across **192** files in the top 5 languages.
 | [xan-x86_64-unknown-linux-musl.sha256](https://github.com/medialab/xan/releases/download/0.61.0/xan-x86_64-unknown-linux-musl.sha256) | 103 B | `native/linux/x64/musl` |
 | [xan-x86_64-unknown-linux-musl.tar.gz](https://github.com/medialab/xan/releases/download/0.61.0/xan-x86_64-unknown-linux-musl.tar.gz) | 7.0 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **27** distros on [repology.org](https://repology.org/project/xan). **5** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.61.0` | ✅ latest |
-| Homebrew | `0.61.0` | ✅ latest |
-| Nix unstable | `0.60.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for xan lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `xan` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -90,4 +80,4 @@ Install metadata for xan lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:00:53Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:12:00Z._
