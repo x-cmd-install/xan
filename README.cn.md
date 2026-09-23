@@ -4,7 +4,7 @@
 
 The CSV magician
 
-[![x-cmd/install — xan Code Quality Monitoring Repo Card](https://repo.x-cmd.io/xan.svg?lang=zh)](https://x-cmd.com/install/xan)
+[![x-cmd/install — xan Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/xan.svg?lang=zh)](https://x-cmd.com/install/xan)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install xan
 
 ## 流行度
 
-- **Star**: 4,519 · **Fork**: 91 · **开放 issue**: 1,096 · **贡献者**: 65
+- **Star**: 4,519 · **Fork**: 90 · **开放 issue**: 1,096 · **贡献者**: 65
 
 ## 累计统计
 
-- **发布数**: 40 · **已合并 PR**: 60 · **开放 PR**: 4 · **已关闭 issue**: 977 · **开放 issue**: 119 · **提交数**: 3377
+- **发布数**: 40 · **已合并 PR**: 60 · **开放 PR**: 4 · **已关闭 issue**: 978 · **开放 issue**: 118 · **提交数**: 3377
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 1 | 3 | 8 | 13 | 27 |
-| last60d | 2026-07-24 | 1 | 1 | 3 | 10 | 18 | 29 |
-| 90d | 2026-06-24 | 3 | 1 | 3 | 22 | 22 | 63 |
-| last180d | 2026-03-26 | 8 | 4 | 4 | 147 | 69 | 514 |
-| 360d | 2025-09-27 | 16 | 15 | 4 | 275 | 86 | 886 |
-| last720d | 2024-10-02 | 40 | 39 | 4 | 698 | 114 | 1856 |
+| 30d | 2026-08-24 | 1 | 1 | 3 | 8 | 12 | 27 |
+| last60d | 2026-07-25 | 1 | 1 | 3 | 11 | 17 | 29 |
+| 90d | 2026-06-25 | 3 | 1 | 3 | 23 | 21 | 63 |
+| last180d | 2026-03-27 | 8 | 4 | 4 | 146 | 68 | 514 |
+| 360d | 2025-09-28 | 16 | 15 | 4 | 276 | 85 | 886 |
+| last720d | 2024-10-03 | 40 | 39 | 4 | 691 | 113 | 1843 |
 
 ## Release 资产
 
@@ -80,4 +80,4 @@ xan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:01:35Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:16:57Z._

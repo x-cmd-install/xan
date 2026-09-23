@@ -4,7 +4,7 @@
 
 The CSV magician
 
-[![x-cmd/install — xan Code Quality Monitoring Repo Card](https://repo.x-cmd.io/xan.svg)](https://x-cmd.com/install/xan)
+[![x-cmd/install — xan Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/xan.svg)](https://x-cmd.com/install/xan)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **63,878** lines of code across **193** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,519 · **Forks**: 91 · **Open issues**: 1,096 · **Contributors**: 65
+- **Stars**: 4,519 · **Forks**: 90 · **Open issues**: 1,096 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 60 · **Open PRs**: 4 · **Closed issues**: 977 · **Open issues**: 119 · **Commits**: 3377
+- **Releases**: 40 · **Merged PRs**: 60 · **Open PRs**: 4 · **Closed issues**: 978 · **Open issues**: 118 · **Commits**: 3377
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 1 | 3 | 8 | 13 | 27 |
-| last60d | 2026-07-24 | 1 | 1 | 3 | 10 | 18 | 29 |
-| 90d | 2026-06-24 | 3 | 1 | 3 | 22 | 22 | 63 |
-| last180d | 2026-03-26 | 8 | 4 | 4 | 147 | 69 | 514 |
-| 360d | 2025-09-27 | 16 | 15 | 4 | 275 | 86 | 886 |
-| last720d | 2024-10-02 | 40 | 39 | 4 | 698 | 114 | 1856 |
+| 30d | 2026-08-24 | 1 | 1 | 3 | 8 | 12 | 27 |
+| last60d | 2026-07-25 | 1 | 1 | 3 | 11 | 17 | 29 |
+| 90d | 2026-06-25 | 3 | 1 | 3 | 23 | 21 | 63 |
+| last180d | 2026-03-27 | 8 | 4 | 4 | 146 | 68 | 514 |
+| 360d | 2025-09-28 | 16 | 15 | 4 | 276 | 85 | 886 |
+| last720d | 2024-10-03 | 40 | 39 | 4 | 691 | 113 | 1843 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for xan lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:01:35Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:16:57Z._
