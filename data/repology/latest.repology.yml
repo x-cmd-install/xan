@@ -1,14 +1,26 @@
-- repo: parabola
-  subrepo: extra
-  srcname: xan
-  binname: xan
-  visiblename: xan
-  version: 0.61.0
-  origversion: 0.61.0-1
-  status: newest
+- repo: gentoo_ovl_guru
+  srcname: app-text/xan
+  visiblename: app-text/xan
+  version: "9999"
+  origversion: null
+  status: rolling
   summary: The CSV magician
+  maintainers:
+    - vowstar@gmail.com
   licenses:
-    - Unlicense
+    - '|| ( MIT Unlicense ) Apache-2.0 BSD-2 BSD CC0-1.0 GPL-2+ ISC MIT MPL-2.0 Unicode-3.0 Unlicense ZLIB'
+  categories:
+    - app-text
+- repo: nix_stable_25_11
+  srcname: xan
+  visiblename: xan
+  version: 0.54.0
+  origversion: null
+  status: outdated
+  summary: Command line tool to process CSV files directly from the shell
+  maintainers:
+    - raf@notashelf.dev
+  licenses:
     - MIT
 - repo: arch
   subrepo: extra
@@ -37,19 +49,6 @@
 - repo: gentoo_ovl_guru
   srcname: app-text/xan
   visiblename: app-text/xan
-  version: "9999"
-  origversion: null
-  status: rolling
-  summary: The CSV magician
-  maintainers:
-    - vowstar@gmail.com
-  licenses:
-    - '|| ( MIT Unlicense ) Apache-2.0 BSD-2 BSD CC0-1.0 GPL-2+ ISC MIT MPL-2.0 Unicode-3.0 Unlicense ZLIB'
-  categories:
-    - app-text
-- repo: gentoo_ovl_guru
-  srcname: app-text/xan
-  visiblename: app-text/xan
   version: 0.60.0
   origversion: null
   status: legacy
@@ -60,6 +59,17 @@
     - '|| ( MIT Unlicense ) Apache-2.0 BSD-2 BSD CC0-1.0 GPL-2+ ISC MIT MPL-2.0 Unicode-3.0 Unlicense ZLIB'
   categories:
     - app-text
+- repo: nix_stable_26_05
+  srcname: xan
+  visiblename: xan
+  version: 0.57.1
+  origversion: null
+  status: outdated
+  summary: Command line tool to process CSV files directly from the shell
+  maintainers:
+    - raf@notashelf.dev
+  licenses:
+    - MIT
 - repo: gentoo_ovl_guru
   srcname: app-text/xan
   visiblename: app-text/xan
@@ -240,28 +250,6 @@
     - raf@notashelf.dev
   licenses:
     - MIT
-- repo: nix_stable_25_11
-  srcname: xan
-  visiblename: xan
-  version: 0.54.0
-  origversion: null
-  status: outdated
-  summary: Command line tool to process CSV files directly from the shell
-  maintainers:
-    - raf@notashelf.dev
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: xan
-  visiblename: xan
-  version: 0.57.1
-  origversion: null
-  status: outdated
-  summary: Command line tool to process CSV files directly from the shell
-  maintainers:
-    - raf@notashelf.dev
-  licenses:
-    - MIT
 - repo: nix_unstable
   srcname: xan
   visiblename: xan
@@ -285,6 +273,18 @@
     - pascal@stumpf.co
   categories:
     - textproc
+- repo: parabola
+  subrepo: extra
+  srcname: xan
+  binname: xan
+  visiblename: xan
+  version: 0.61.0
+  origversion: 0.61.0-1
+  status: newest
+  summary: The CSV magician
+  licenses:
+    - Unlicense
+    - MIT
 - repo: pkgsrc_2026_2
   srcname: textproc/xan
   binname: xan
