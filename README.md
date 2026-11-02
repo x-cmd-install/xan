@@ -47,12 +47,12 @@ Total: **64,995** lines of code across **195** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 2 | 9 | 4 | 8 | 15 | 26 |
-| last60d | 2026-09-02 | 3 | 12 | 5 | 25 | 22 | 66 |
-| 90d | 2026-08-03 | 3 | 13 | 6 | 28 | 27 | 74 |
-| last180d | 2026-05-05 | 8 | 16 | 7 | 107 | 65 | 301 |
-| 360d | 2025-11-06 | 15 | 23 | 7 | 243 | 93 | 778 |
-| last720d | 2024-11-11 | 42 | 51 | 7 | 687 | 120 | 1796 |
+| 30d | 2026-10-03 | 2 | 9 | 4 | 8 | 15 | 26 |
+| last60d | 2026-09-03 | 3 | 12 | 5 | 25 | 22 | 66 |
+| 90d | 2026-08-04 | 3 | 13 | 6 | 28 | 27 | 74 |
+| last180d | 2026-05-06 | 8 | 16 | 7 | 102 | 65 | 301 |
+| 360d | 2025-11-07 | 15 | 22 | 7 | 243 | 93 | 778 |
+| last720d | 2024-11-12 | 42 | 51 | 7 | 682 | 120 | 1796 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for xan lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:11:19Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:11:36Z._
