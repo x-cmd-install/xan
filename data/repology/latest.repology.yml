@@ -1,15 +1,24 @@
-- repo: parabola
-  subrepo: extra
-  srcname: xan
+- repo: pkgsrc_current
+  srcname: textproc/xan
+  binname: xan
+  visiblename: textproc/xan
+  version: 0.61.0
+  origversion: null
+  status: newest
+  summary: CSV handling tool
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: scoop
+  subrepo: extras
   binname: xan
   visiblename: xan
   version: 0.61.0
-  origversion: 0.61.0-1
+  origversion: null
   status: newest
-  summary: The CSV magician
   licenses:
-    - Unlicense
-    - MIT
+    - Unlincense|MIT
 - repo: arch
   subrepo: extra
   srcname: xan
@@ -193,30 +202,6 @@
     - Unlicense
   categories:
     - textproc
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: xan
-  binname: xan
-  visiblename: xan
-  version: 0.60.0
-  origversion: 0.60.0-1
-  status: outdated
-  summary: The CSV magician
-  licenses:
-    - Unlicense
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: xan
-  binname: xan
-  visiblename: xan
-  version: 0.61.0
-  origversion: 0.61.0-1
-  status: newest
-  summary: The CSV magician
-  licenses:
-    - Unlicense
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: xan
@@ -285,6 +270,18 @@
     - pascal@stumpf.co
   categories:
     - textproc
+- repo: parabola
+  subrepo: extra
+  srcname: xan
+  binname: xan
+  visiblename: xan
+  version: 0.61.0
+  origversion: 0.61.0-1
+  status: newest
+  summary: The CSV magician
+  licenses:
+    - Unlicense
+    - MIT
 - repo: pkgsrc_2026_2
   srcname: textproc/xan
   binname: xan
@@ -309,27 +306,6 @@
     - pkgsrc-users@netbsd.org
   categories:
     - textproc
-- repo: pkgsrc_current
-  srcname: textproc/xan
-  binname: xan
-  visiblename: textproc/xan
-  version: 0.61.0
-  origversion: null
-  status: newest
-  summary: CSV handling tool
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - textproc
-- repo: scoop
-  subrepo: extras
-  binname: xan
-  visiblename: xan
-  version: 0.61.0
-  origversion: null
-  status: newest
-  licenses:
-    - Unlincense|MIT
 - repo: t2
   srcname: xan
   visiblename: xan
