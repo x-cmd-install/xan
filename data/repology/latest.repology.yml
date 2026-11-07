@@ -1,60 +1,14 @@
-- repo: pkgsrc_2026_2
-  srcname: textproc/xan
-  binname: xan
-  visiblename: textproc/xan
-  version: 0.58.0
-  origversion: null
-  status: outdated
-  summary: CSV handling tool
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - textproc
-- repo: scoop
-  subrepo: extras
-  binname: xan
+- repo: nix_stable_25_11
+  srcname: xan
   visiblename: xan
-  version: 0.61.0
-  origversion: null
-  status: newest
-  licenses:
-    - Unlincense|MIT
-- repo: pkgsrc_2026_3
-  srcname: textproc/xan
-  binname: xan
-  visiblename: textproc/xan
-  version: 0.60.0
+  version: 0.54.0
   origversion: null
   status: outdated
-  summary: CSV handling tool
+  summary: Command line tool to process CSV files directly from the shell
   maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - textproc
-- repo: freebsd
-  srcname: textproc/xan
-  binname: xan
-  visiblename: textproc/xan
-  version: 0.61.0
-  origversion: 0.61.0_1
-  status: newest
-  summary: CSV magician
-  maintainers:
-    - tagattie@freebsd.org
-  categories:
-    - textproc
-- repo: pkgsrc_current
-  srcname: textproc/xan
-  binname: xan
-  visiblename: textproc/xan
-  version: 0.61.0
-  origversion: null
-  status: newest
-  summary: CSV handling tool
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - textproc
+    - raf@notashelf.dev
+  licenses:
+    - MIT
 - repo: arch
   subrepo: extra
   srcname: xan
@@ -67,6 +21,18 @@
   licenses:
     - Unlicense
     - MIT
+- repo: freebsd
+  srcname: textproc/xan
+  binname: xan
+  visiblename: textproc/xan
+  version: 0.61.0
+  origversion: 0.61.0_1
+  status: newest
+  summary: CSV magician
+  maintainers:
+    - tagattie@freebsd.org
+  categories:
+    - textproc
 - repo: gentoo_ovl_guru
   srcname: app-text/xan
   visiblename: app-text/xan
@@ -226,6 +192,30 @@
     - Unlicense
   categories:
     - textproc
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: xan
+  binname: xan
+  visiblename: xan
+  version: 0.61.0
+  origversion: 0.61.0-1
+  status: newest
+  summary: The CSV magician
+  licenses:
+    - Unlicense
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: xan
+  binname: xan
+  visiblename: xan
+  version: 0.61.0
+  origversion: 0.61.0-1
+  status: newest
+  summary: The CSV magician
+  licenses:
+    - Unlicense
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: xan
@@ -242,17 +232,6 @@
   srcname: xan
   visiblename: xan
   version: 0.50.0
-  origversion: null
-  status: outdated
-  summary: Command line tool to process CSV files directly from the shell
-  maintainers:
-    - raf@notashelf.dev
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: xan
-  visiblename: xan
-  version: 0.54.0
   origversion: null
   status: outdated
   summary: Command line tool to process CSV files directly from the shell
@@ -306,6 +285,51 @@
   licenses:
     - Unlicense
     - MIT
+- repo: pkgsrc_2026_2
+  srcname: textproc/xan
+  binname: xan
+  visiblename: textproc/xan
+  version: 0.58.0
+  origversion: null
+  status: outdated
+  summary: CSV handling tool
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: pkgsrc_2026_3
+  srcname: textproc/xan
+  binname: xan
+  visiblename: textproc/xan
+  version: 0.60.0
+  origversion: null
+  status: outdated
+  summary: CSV handling tool
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: pkgsrc_current
+  srcname: textproc/xan
+  binname: xan
+  visiblename: textproc/xan
+  version: 0.61.0
+  origversion: null
+  status: newest
+  summary: CSV handling tool
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: scoop
+  subrepo: extras
+  binname: xan
+  visiblename: xan
+  version: 0.61.0
+  origversion: null
+  status: newest
+  licenses:
+    - Unlincense|MIT
 - repo: t2
   srcname: xan
   visiblename: xan
