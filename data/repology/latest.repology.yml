@@ -1,14 +1,25 @@
-- repo: nix_stable_25_11
+- repo: scoop
+  subrepo: extras
+  binname: xan
+  visiblename: xan
+  version: 0.61.0
+  origversion: null
+  status: newest
+  licenses:
+    - Unlincense|MIT
+- repo: t2
   srcname: xan
   visiblename: xan
-  version: 0.54.0
+  version: 0.61.0
   origversion: null
-  status: outdated
-  summary: Command line tool to process CSV files directly from the shell
+  status: newest
+  summary: The CSV processing CLI
   maintainers:
-    - raf@notashelf.dev
+    - rene@exactco.de
   licenses:
-    - MIT
+    - UNL
+  categories:
+    - extra/tool
 - repo: arch
   subrepo: extra
   srcname: xan
@@ -239,6 +250,17 @@
     - raf@notashelf.dev
   licenses:
     - MIT
+- repo: nix_stable_25_11
+  srcname: xan
+  visiblename: xan
+  version: 0.54.0
+  origversion: null
+  status: outdated
+  summary: Command line tool to process CSV files directly from the shell
+  maintainers:
+    - raf@notashelf.dev
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: xan
   visiblename: xan
@@ -321,25 +343,3 @@
     - pkgsrc-users@netbsd.org
   categories:
     - textproc
-- repo: scoop
-  subrepo: extras
-  binname: xan
-  visiblename: xan
-  version: 0.61.0
-  origversion: null
-  status: newest
-  licenses:
-    - Unlincense|MIT
-- repo: t2
-  srcname: xan
-  visiblename: xan
-  version: 0.61.0
-  origversion: null
-  status: newest
-  summary: The CSV processing CLI
-  maintainers:
-    - rene@exactco.de
-  licenses:
-    - UNL
-  categories:
-    - extra/tool
