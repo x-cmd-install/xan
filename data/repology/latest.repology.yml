@@ -1,25 +1,49 @@
-- repo: scoop
-  subrepo: extras
+- repo: nix_stable_25_11
+  srcname: xan
+  visiblename: xan
+  version: 0.54.0
+  origversion: null
+  status: outdated
+  summary: Command line tool to process CSV files directly from the shell
+  maintainers:
+    - raf@notashelf.dev
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: xan
   binname: xan
   visiblename: xan
   version: 0.61.0
-  origversion: null
+  origversion: 0.61.0-1
   status: newest
+  summary: The CSV magician
   licenses:
-    - Unlincense|MIT
-- repo: t2
+    - Unlicense
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
   srcname: xan
+  binname: xan
   visiblename: xan
   version: 0.61.0
-  origversion: null
+  origversion: 0.61.0-1
   status: newest
-  summary: The CSV processing CLI
-  maintainers:
-    - rene@exactco.de
+  summary: The CSV magician
   licenses:
-    - UNL
-  categories:
-    - extra/tool
+    - Unlicense
+    - MIT
+- repo: nix_stable_25_05
+  srcname: xan
+  visiblename: xan
+  version: 0.50.0
+  origversion: null
+  status: outdated
+  summary: Command line tool to process CSV files directly from the shell
+  maintainers:
+    - raf@notashelf.dev
+  licenses:
+    - MIT
 - repo: arch
   subrepo: extra
   srcname: xan
@@ -215,52 +239,6 @@
   licenses:
     - Unlicense
     - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: xan
-  binname: xan
-  visiblename: xan
-  version: 0.61.0
-  origversion: 0.61.0-1
-  status: newest
-  summary: The CSV magician
-  licenses:
-    - Unlicense
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: xan
-  binname: xan
-  visiblename: xan
-  version: 0.61.0
-  origversion: 0.61.0-1
-  status: newest
-  summary: The CSV magician
-  licenses:
-    - Unlicense
-    - MIT
-- repo: nix_stable_25_05
-  srcname: xan
-  visiblename: xan
-  version: 0.50.0
-  origversion: null
-  status: outdated
-  summary: Command line tool to process CSV files directly from the shell
-  maintainers:
-    - raf@notashelf.dev
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: xan
-  visiblename: xan
-  version: 0.54.0
-  origversion: null
-  status: outdated
-  summary: Command line tool to process CSV files directly from the shell
-  maintainers:
-    - raf@notashelf.dev
-  licenses:
-    - MIT
 - repo: nix_stable_26_05
   srcname: xan
   visiblename: xan
@@ -343,3 +321,25 @@
     - pkgsrc-users@netbsd.org
   categories:
     - textproc
+- repo: scoop
+  subrepo: extras
+  binname: xan
+  visiblename: xan
+  version: 0.61.0
+  origversion: null
+  status: newest
+  licenses:
+    - Unlincense|MIT
+- repo: t2
+  srcname: xan
+  visiblename: xan
+  version: 0.61.0
+  origversion: null
+  status: newest
+  summary: The CSV processing CLI
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - UNL
+  categories:
+    - extra/tool
