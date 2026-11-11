@@ -14,11 +14,11 @@ x install xan
 
 ## Code insight
 
-Total: **66,117** lines of code across **195** files in the top 5 languages.
+Total: **66,107** lines of code across **195** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 63,567 | 1,084 | 9,819 | 180 |
+| Rust | 63,617 | 1,084 | 9,819 | 180 |
 | Json | 1,813 | 0 | 0 | 5 |
 | Sh | 340 | 44 | 122 | 6 |
 | Toml | 151 | 2 | 8 | 3 |
@@ -32,7 +32,7 @@ Total: **66,117** lines of code across **195** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.62.0-rc.2` (2026-09-11)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-10
 - **Assets in release**: 12
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **66,117** lines of code across **195** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 76 · **Open PRs**: 3 · **Closed issues**: 1011 · **Open issues**: 125 · **Commits**: 3463
+- **Releases**: 42 · **Merged PRs**: 76 · **Open PRs**: 4 · **Closed issues**: 1011 · **Open issues**: 125 · **Commits**: 3464
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 6 | 0 | 11 | 15 | 54 |
-| last60d | 2026-09-11 | 3 | 14 | 2 | 25 | 20 | 97 |
-| 90d | 2026-08-12 | 3 | 15 | 3 | 35 | 27 | 109 |
-| last180d | 2026-05-14 | 8 | 18 | 3 | 101 | 54 | 267 |
-| 360d | 2025-11-15 | 15 | 24 | 3 | 243 | 88 | 788 |
-| last720d | 2024-11-20 | 42 | 51 | 3 | 661 | 116 | 1794 |
+| 30d | 2026-10-12 | 0 | 3 | 1 | 11 | 15 | 55 |
+| last60d | 2026-09-12 | 2 | 14 | 3 | 25 | 20 | 98 |
+| 90d | 2026-08-13 | 3 | 15 | 4 | 35 | 27 | 110 |
+| last180d | 2026-05-15 | 8 | 18 | 4 | 99 | 54 | 268 |
+| 360d | 2025-11-16 | 15 | 24 | 4 | 242 | 88 | 789 |
+| last720d | 2024-11-21 | 42 | 50 | 4 | 660 | 116 | 1789 |
 
 ## Release assets
 
@@ -78,7 +78,7 @@ Reported by **29** distros on [repology.org](https://repology.org/project/xan). 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.61.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.61.0` | ✅ latest |
 | Nix unstable | `0.61.0` | ✅ latest |
 
 ## Improve this data
@@ -90,4 +90,4 @@ Install metadata for xan lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:27:56Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:16:49Z._
