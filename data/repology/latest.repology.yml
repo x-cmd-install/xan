@@ -22,6 +22,63 @@
     - tagattie@freebsd.org
   categories:
     - textproc
+- repo: parabola
+  subrepo: extra
+  srcname: xan
+  binname: xan
+  visiblename: xan
+  version: 0.61.0
+  origversion: 0.61.0-1
+  status: newest
+  summary: The CSV magician
+  licenses:
+    - Unlicense
+    - MIT
+- repo: pkgsrc_2026_2
+  srcname: textproc/xan
+  binname: xan
+  visiblename: textproc/xan
+  version: 0.58.0
+  origversion: null
+  status: outdated
+  summary: CSV handling tool
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: pkgsrc_2026_3
+  srcname: textproc/xan
+  binname: xan
+  visiblename: textproc/xan
+  version: 0.60.0
+  origversion: null
+  status: outdated
+  summary: CSV handling tool
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: pkgsrc_current
+  srcname: textproc/xan
+  binname: xan
+  visiblename: textproc/xan
+  version: 0.61.0
+  origversion: null
+  status: newest
+  summary: CSV handling tool
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: scoop
+  subrepo: extras
+  binname: xan
+  visiblename: xan
+  version: 0.61.0
+  origversion: null
+  status: newest
+  licenses:
+    - Unlincense|MIT
 - repo: gentoo_ovl_guru
   srcname: app-text/xan
   visiblename: app-text/xan
@@ -273,63 +330,6 @@
     - pascal@stumpf.co
   categories:
     - textproc
-- repo: parabola
-  subrepo: extra
-  srcname: xan
-  binname: xan
-  visiblename: xan
-  version: 0.61.0
-  origversion: 0.61.0-1
-  status: newest
-  summary: The CSV magician
-  licenses:
-    - Unlicense
-    - MIT
-- repo: pkgsrc_2026_2
-  srcname: textproc/xan
-  binname: xan
-  visiblename: textproc/xan
-  version: 0.58.0
-  origversion: null
-  status: outdated
-  summary: CSV handling tool
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - textproc
-- repo: pkgsrc_2026_3
-  srcname: textproc/xan
-  binname: xan
-  visiblename: textproc/xan
-  version: 0.60.0
-  origversion: null
-  status: outdated
-  summary: CSV handling tool
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - textproc
-- repo: pkgsrc_current
-  srcname: textproc/xan
-  binname: xan
-  visiblename: textproc/xan
-  version: 0.61.0
-  origversion: null
-  status: newest
-  summary: CSV handling tool
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - textproc
-- repo: scoop
-  subrepo: extras
-  binname: xan
-  visiblename: xan
-  version: 0.61.0
-  origversion: null
-  status: newest
-  licenses:
-    - Unlincense|MIT
 - repo: t2
   srcname: xan
   visiblename: xan
