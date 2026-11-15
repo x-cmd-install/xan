@@ -1,12 +1,16 @@
-- repo: scoop
-  subrepo: extras
-  binname: xan
+- repo: t2
+  srcname: xan
   visiblename: xan
   version: 0.61.0
   origversion: null
   status: newest
+  summary: The CSV processing CLI
+  maintainers:
+    - rene@exactco.de
   licenses:
-    - Unlincense|MIT
+    - UNL
+  categories:
+    - extra/tool
 - repo: arch
   subrepo: extra
   srcname: xan
@@ -330,16 +334,12 @@
     - pkgsrc-users@netbsd.org
   categories:
     - textproc
-- repo: t2
-  srcname: xan
+- repo: scoop
+  subrepo: extras
+  binname: xan
   visiblename: xan
   version: 0.61.0
   origversion: null
   status: newest
-  summary: The CSV processing CLI
-  maintainers:
-    - rene@exactco.de
   licenses:
-    - UNL
-  categories:
-    - extra/tool
+    - Unlincense|MIT
