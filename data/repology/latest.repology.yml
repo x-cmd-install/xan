@@ -1,3 +1,15 @@
+- repo: parabola
+  subrepo: extra
+  srcname: xan
+  binname: xan
+  visiblename: xan
+  version: 0.61.0
+  origversion: 0.61.0-1
+  status: newest
+  summary: The CSV magician
+  licenses:
+    - Unlicense
+    - MIT
 - repo: arch
   subrepo: extra
   srcname: xan
@@ -273,18 +285,6 @@
     - pascal@stumpf.co
   categories:
     - textproc
-- repo: parabola
-  subrepo: extra
-  srcname: xan
-  binname: xan
-  visiblename: xan
-  version: 0.61.0
-  origversion: 0.61.0-1
-  status: newest
-  summary: The CSV magician
-  licenses:
-    - Unlicense
-    - MIT
 - repo: pkgsrc_2026_2
   srcname: textproc/xan
   binname: xan
