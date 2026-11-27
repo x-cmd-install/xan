@@ -37,22 +37,22 @@ Total: **67,159** lines of code across **196** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,564 · **Forks**: 94 · **Open issues**: 1,156 · **Contributors**: 68
+- **Stars**: 4,567 · **Forks**: 94 · **Open issues**: 1,159 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 77 · **Open PRs**: 4 · **Closed issues**: 1026 · **Open issues**: 130 · **Commits**: 3505
+- **Releases**: 42 · **Merged PRs**: 77 · **Open PRs**: 5 · **Closed issues**: 1026 · **Open issues**: 133 · **Commits**: 3505
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 3 | 1 | 12 | 16 | 76 |
-| last60d | 2026-09-27 | 2 | 14 | 2 | 29 | 26 | 116 |
-| 90d | 2026-08-28 | 3 | 15 | 4 | 47 | 33 | 151 |
-| last180d | 2026-05-30 | 8 | 17 | 4 | 91 | 54 | 274 |
-| 360d | 2025-12-01 | 12 | 24 | 4 | 250 | 92 | 816 |
-| last720d | 2024-12-06 | 42 | 50 | 4 | 659 | 120 | 1793 |
+| 30d | 2026-10-28 | 0 | 2 | 2 | 12 | 19 | 76 |
+| last60d | 2026-09-28 | 2 | 14 | 3 | 27 | 29 | 116 |
+| 90d | 2026-08-29 | 3 | 15 | 5 | 47 | 36 | 151 |
+| last180d | 2026-05-31 | 8 | 17 | 5 | 91 | 57 | 274 |
+| 360d | 2025-12-02 | 12 | 24 | 5 | 249 | 95 | 816 |
+| last720d | 2024-12-07 | 42 | 50 | 5 | 659 | 123 | 1792 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for xan lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:38:31Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:46:39Z._
