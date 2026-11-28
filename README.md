@@ -14,12 +14,12 @@ x install xan
 
 ## Code insight
 
-Total: **67,159** lines of code across **196** files in the top 5 languages.
+Total: **67,205** lines of code across **196** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 64,667 | 1,090 | 9,994 | 181 |
-| Json | 1,813 | 0 | 0 | 5 |
+| Rust | 64,701 | 1,090 | 9,999 | 181 |
+| Json | 1,825 | 0 | 0 | 5 |
 | Sh | 340 | 44 | 122 | 6 |
 | Toml | 152 | 2 | 8 | 3 |
 | Pest | 139 | 12 | 23 | 1 |
@@ -32,27 +32,27 @@ Total: **67,159** lines of code across **196** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.62.0-rc.2` (2026-09-11)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-27
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 4,567 · **Forks**: 94 · **Open issues**: 1,159 · **Contributors**: 68
+- **Stars**: 4,569 · **Forks**: 94 · **Open issues**: 1,161 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 77 · **Open PRs**: 5 · **Closed issues**: 1026 · **Open issues**: 133 · **Commits**: 3505
+- **Releases**: 42 · **Merged PRs**: 77 · **Open PRs**: 5 · **Closed issues**: 1030 · **Open issues**: 131 · **Commits**: 3512
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 2 | 2 | 12 | 19 | 76 |
-| last60d | 2026-09-28 | 2 | 14 | 3 | 27 | 29 | 116 |
-| 90d | 2026-08-29 | 3 | 15 | 5 | 47 | 36 | 151 |
-| last180d | 2026-05-31 | 8 | 17 | 5 | 91 | 57 | 274 |
-| 360d | 2025-12-02 | 12 | 24 | 5 | 249 | 95 | 816 |
-| last720d | 2024-12-07 | 42 | 50 | 5 | 659 | 123 | 1792 |
+| 30d | 2026-10-29 | 0 | 2 | 2 | 16 | 17 | 83 |
+| last60d | 2026-09-29 | 2 | 13 | 3 | 30 | 27 | 123 |
+| 90d | 2026-08-30 | 3 | 15 | 5 | 51 | 32 | 158 |
+| last180d | 2026-06-01 | 8 | 17 | 5 | 95 | 55 | 281 |
+| 360d | 2025-12-03 | 12 | 24 | 5 | 252 | 93 | 823 |
+| last720d | 2024-12-08 | 42 | 50 | 5 | 663 | 121 | 1799 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for xan lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:46:39Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:51:08Z._
