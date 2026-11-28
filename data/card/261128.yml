@@ -1,0 +1,137 @@
+about:
+  description: "The CSV magician"
+  license: Unlicense
+  homepage: 
+  head: bc961b9
+  archived: false
+  latestVersion: "0.62.0-rc.2"
+  latestRelease: "0.61.0"
+  latestPrerelease: "0.62.0-rc.2"
+  collectedAt: 2026-11-28T07:50:41Z
+timeline:
+  created: 2018-07-10
+  lastCommit: 2026-11-27
+  lastVersion: 2026-10-06
+  lastRelease: 2026-09-11
+  lastPrerelease: 2026-10-06
+popularity:
+  star: 4569
+  watcher: 21
+  fork: 94
+  release: 42
+  contributor: 68
+  pullRequest: 98
+  issue: 1161
+language:
+  Rust: 2348094
+  HTML: 1245
+  Shell: 1232
+totalBytes: 2350571
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 0
+    mergedPR: 2
+    openPR: 2
+    closedIssue: 16
+    openIssue: 17
+    commit: 83
+  last60d:
+    since: 2026-09-29
+    release: 2
+    mergedPR: 13
+    openPR: 3
+    closedIssue: 30
+    openIssue: 27
+    commit: 123
+  last90d:
+    since: 2026-08-30
+    release: 3
+    mergedPR: 15
+    openPR: 5
+    closedIssue: 51
+    openIssue: 32
+    commit: 158
+  last180d:
+    since: 2026-06-01
+    release: 8
+    mergedPR: 17
+    openPR: 5
+    closedIssue: 95
+    openIssue: 55
+    commit: 281
+  last360d:
+    since: 2025-12-03
+    release: 12
+    mergedPR: 24
+    openPR: 5
+    closedIssue: 252
+    openIssue: 93
+    commit: 823
+  last720d:
+    since: 2024-12-08
+    release: 42
+    mergedPR: 50
+    openPR: 5
+    closedIssue: 663
+    openIssue: 121
+    commit: 1799
+total:
+  release: 42
+  mergedPR: 77
+  openPR: 5
+  closedIssue: 1030
+  openIssue: 131
+  commit: 3512
+---
+path: /home/runner/.x-repo/github.com/medialab/xan
+collectedAt: 2026-11-28T07:50:46Z
+loc:
+  Rust:
+    code: 64701
+    comments: 1090
+    blanks: 9999
+    files: 181
+  Json:
+    code: 1825
+    comments: 0
+    blanks: 0
+    files: 5
+  Sh:
+    code: 340
+    comments: 44
+    blanks: 122
+    files: 6
+  Toml:
+    code: 152
+    comments: 2
+    blanks: 8
+    files: 3
+  Pest:
+    code: 139
+    comments: 12
+    blanks: 23
+    files: 1
+  Sass:
+    code: 48
+    comments: 1
+    blanks: 12
+    files: 2
+  Markdown:
+    code: 0
+    comments: 9715
+    blanks: 3363
+    files: 93
+  Text:
+    code: 0
+    comments: 34
+    blanks: 5
+    files: 4
+total:
+  code: 67772
+  comments: 11142
+  blanks: 13619
+  files: 295
+---
+
+---
